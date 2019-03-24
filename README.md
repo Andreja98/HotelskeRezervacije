@@ -62,7 +62,6 @@ izabranom hotelu, da izvrši rezervaciju odabrane sobe kao i plaćanje na samom 
 <b>10. Pregled soba u hotelu</b><br>
 <img src="/Slike/Pregled soba.png"> 
 
-!!! napraviti novu sliku
 <b>11. Kreiranje nove sobe</b><br>
 <img src="/Slike/Dodavanje sobe.png"> 
 
